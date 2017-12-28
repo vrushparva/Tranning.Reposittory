@@ -1,2 +1,2 @@
-# Tranning.Reposittory
-This Repo. is only  for Training purpose 
+# prog
+This is for only Training  purpose 
