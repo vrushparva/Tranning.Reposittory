@@ -1,2 +1,2 @@
 # LOOP PROG.
-All Loops programmes 
+All Loops
